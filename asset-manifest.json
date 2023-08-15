@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.e2ef8813.css",
+    "main.js": "/myPortfolio/static/js/main.abbd3ae4.js",
+    "static/media/CV.pdf": "/myPortfolio/static/media/CV.df65baa3db8c133ecda9.pdf",
+    "static/media/bg.jpg": "/myPortfolio/static/media/bg.97446f53c3c8fc35c293.jpg",
+    "static/media/Talha2.jpg": "/myPortfolio/static/media/Talha2.c07e0dd5703c69dab5ea.jpg",
+    "static/media/Talha1.jpg": "/myPortfolio/static/media/Talha1.1b954838c9629d3c2646.jpg",
+    "static/media/revicons.eot": "/myPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/myPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/myPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/myPortfolio/index.html",
+    "main.e2ef8813.css.map": "/myPortfolio/static/css/main.e2ef8813.css.map",
+    "main.abbd3ae4.js.map": "/myPortfolio/static/js/main.abbd3ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ef8813.css",
+    "static/js/main.abbd3ae4.js"
+  ]
+}
