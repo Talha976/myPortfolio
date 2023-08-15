@@ -1,0 +1,59 @@
+section{
+    margin-top: 70px;
+    background-color: azure;
+    color: black;
+}
+.skills{
+    padding: 0 0 50;
+    position: relative;
+}
+.skills-box{
+   
+   display: inline;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -60px;
+}
+#p1{
+    color: black;
+}
+.skills h2{
+    font-size: 45px;
+    font-weight: 700px;
+    color: black;
+}
+.skill-slider{
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+
+}
+.skill-slider .item{
+width: 50%;
+margin: 0 auto 15px auto;
+}
+.backgroung-image-left{
+    top: 28%;
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    z-index: -4;
+}
+.img{
+    height: 150px;
+    clip-path: circle();
+  
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.item h5{
+    color: black;
+}

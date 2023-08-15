@@ -1,0 +1,51 @@
+#container {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: auto;
+    background: linear-gradient(-45deg, red, green, black, yellow);
+    animation: animate 15s ease infinite;
+    flex-grow: 1;
+}
+
+#container div {
+    position: relative;
+    background-color: #191919;
+    align-items: center;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 10px;
+    height: 350px;
+    color: aliceblue;
+    border-radius: 1rem;
+    flex-grow: 1;
+}
+
+#container div:hover {
+    transform: scale(1.1);
+    transition: .5s ease all;
+    overflow: hidden;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px
+}
+
+
+@media(max-width:768px) {
+    #container {
+        max-height: auto !important;
+    }
+}
+
+.services {
+    background-color: #191919;
+}
+
+.services h2 {
+    color: white;
+}
